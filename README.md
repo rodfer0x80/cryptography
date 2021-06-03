@@ -1,2 +1,2 @@
 # cryptography
-cryptography cracking algorithms
+cryptography study algorithms
