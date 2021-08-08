@@ -1,2 +1,5 @@
 # cryptography
-cryptography study algorithms
+* RSA algorithm
+* Morse Code
+* Vogal/Consonant Shifting Cypher
+* 
