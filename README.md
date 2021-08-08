@@ -1,5 +1,4 @@
 # cryptography
-* RSA algorithm
-* Morse Code
-* Vogal/Consonant Shifting Cypher
-* 
+* RSA algorithm (C++ and Python3)
+* Morse Code (Python3)
+* Vogal/Consonant Shifting Cypher (Java 8)
